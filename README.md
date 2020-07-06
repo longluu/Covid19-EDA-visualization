@@ -11,3 +11,5 @@ For the global cases, I also incorporate external dataset about country's attrib
 
 These data are in 'data' folder.
 
+## Analysis of US cases (*EDA_US.ipynb*)
+For US I also used other sources of data such as population, GDP and income
