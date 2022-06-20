@@ -1,3 +1,6 @@
+## Overview
+In this project I pulled the COVID-19 data from Johns Hopkins University database which include measures such as number of cases and deaths across the world and in the US. Then I make several visualization to draw insight into distribution as well as evolution of COVID-19 across geographical locations and over time. In addition, I also pulled economic and health data from other sources such as World Bank, WHO and US goverments so that I can perform correlational analyses between COVID-19 and several economic and health measures (e.g. GDP, income, health spending).
+
 ## COVID-19 data
 The data is in the repository COVID-19 forked from JHU repo: https://github.com/CSSEGISandData/COVID-19.
 
